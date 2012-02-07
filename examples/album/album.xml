@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="album.css"?>
+
+<music>
+<album>
+	<artist>Bob Marley</artist>
+	<name>Exodus</name>
+	<year> 1979</year>	
+	<price>18.79</price>
+</album>
+
+<album>
+	<artist>é o tchan</artist>
+	<name> segura o tchan</name>
+	<year> 1995</year>	
+	<price>20.00</price>
+</album>
+</music>
